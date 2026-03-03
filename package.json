@@ -2,10 +2,12 @@
   "name": "cards",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://marl3ndev.github.io/cards",
   "dependencies": {
     "@types/node": "^16.18.68",
     "@types/react": "^18.2.45",
     "@types/react-dom": "^18.2.18",
+    "bootstrap": "^5.3.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
